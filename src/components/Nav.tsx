@@ -4,7 +4,7 @@ import { IoMenu } from 'react-icons/io5';
 
 export default function Nav({ coin }: { coin: number }) {
   return (
-    <div className='bg-white shadow-md'>
+    <div className='bg-white'>
         <nav className='flex justify-between items-center p-2 text-md text-black max-w-6xl mx-auto'>
             <img src={logo} alt="Logo" />
             <ul className='md:flex space-x-4 hidden'>
