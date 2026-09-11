@@ -1,0 +1,152 @@
+    [
+    {
+        "playerName": "Virat Kohli",
+        "origin": "India",
+        "playerImg": "../src/assets/virat-k.png",
+        "rating": 9.5,
+        "playerType": "Batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": null,
+           "price": 600
+    },
+    {
+        "playerName": "Steven Smith",
+        "origin": "Australia",
+        "playerImg": "../src/assets/virat-k.png",
+        "rating": 9.3,
+        "playerType": "Batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": null,
+           "price": 500
+    },
+    {
+        "playerName": "Joe Root",
+        "origin": "England",
+        "playerImg": "../src/assets/virat-k.png",
+        "rating": 9.1,
+        "playerType": "Batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm Off Break",
+           "price": 400
+    },
+    {
+        "playerName": "Rohit Sharma",
+        "origin": "India",
+        "playerImg": "../src/assets/rohit-sharma.png",
+        "rating": 9.1,
+        "playerType": "Batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": null,
+           "price": 300
+    },
+    {
+        "playerName": "Kane Williamson",
+        "origin": "New Zealand",
+        "playerImg": "../src/assets/kane-williamson.png",
+        "rating": 8.9,
+        "playerType": "Batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm Off Break",
+           "price": 300
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "origin": "India",
+        "playerImg": "../src/assets/jasprit-bumrah.png",
+        "rating": 9.6,
+        "playerType": "Bowler",
+        "battingStyle": null,
+        "bowlingStyle": "Right-arm Fast",
+           "price": 200
+    },
+    {
+        "playerName": "Shaheen Afridi",
+        "origin": "Pakistan",
+        "playerImg": "/assets/players/shaheen-afridi.png",
+        "rating": 9.1,
+        "playerType": "Bowler",
+        "battingStyle": null,
+        "bowlingStyle": "Left-arm Fast",
+           "price": 300
+    },
+    {
+        "playerName": "Trent Boult",
+        "origin": "New Zealand",
+        "playerImg": "/assets/players/trent-boult.png",
+        "rating": 8.9,
+        "playerType": "Bowler",
+        "battingStyle": null,
+        "bowlingStyle": "Left-arm Fast",
+           "price": 400
+    },
+    {
+        "playerName": "Rashid Khan",
+        "origin": "Afghanistan",
+        "playerImg": "/assets/players/rashid-khan.png",
+        "rating": 9.3,
+        "playerType": "Bowler",
+        "battingStyle": null,
+        "bowlingStyle": "Right-arm Leg Break",
+           "price": 400
+    },
+    {
+        "playerName": "Pat Cummins",
+        "origin": "Australia",
+        "playerImg": "/assets/players/pat-cummins.png",
+        "rating": 9.0,
+        "playerType": "Bowler",
+        "battingStyle": null,
+        "bowlingStyle": "Right-arm Fast",
+           "price": 300
+    },
+    {
+        "playerName": "Shakib Al Hasan",
+        "origin": "Bangladesh",
+        "playerImg": "/assets/players/shakib-al-hasan.png",
+        "rating": 9.2,
+        "playerType": "All-rounder",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Left-arm Orthodox",
+           "price": 100
+    },
+    {
+        "playerName": "Ben Stokes",
+        "origin": "England",
+        "playerImg": "/assets/players/ben-stokes.png",
+        "rating": 9.1,
+        "playerType": "All-rounder",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Right-arm Fast Medium",
+           "price": 500
+    },
+    {
+        "playerName": "Hardik Pandya",
+        "origin": "India",
+        "playerImg": "/assets/players/hardik-pandya.png",
+        "rating": 8.9,
+        "playerType": "All-rounder",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm Fast Medium",
+           "price": 200
+    },
+    {
+        "playerName": "Andre Russell",
+        "origin": "West Indies",
+        "playerImg": "/assets/players/andre-russell.png",
+        "rating": 8.8,
+        "playerType": "All-rounder",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm Fast",
+           "price": 200
+    },
+    {
+        "playerName": "Jos Buttler",
+        "origin": "England",
+        "playerImg": "/assets/players/jos-buttler.png",
+        "rating": 9.2,
+        "playerType": "Wicket-keeper",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": null,
+           "price": 9400
+    }
+    ]
